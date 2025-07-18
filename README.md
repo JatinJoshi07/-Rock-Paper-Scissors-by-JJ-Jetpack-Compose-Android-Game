@@ -37,7 +37,7 @@ This project is available for:
 
 📩 Contact: jatinjoshi9527@gmail.com
 🔗 LinkedIn: https://www.linkedin.com/in/jatin-joshi9527
-🛍️ GitHub: https://github.com/jatinjoshi9527
+🛍️ GitHub: https://github.com/jatinjoshi07
 
 **📝 License**
 This project is licensed for personal and educational purposes.
