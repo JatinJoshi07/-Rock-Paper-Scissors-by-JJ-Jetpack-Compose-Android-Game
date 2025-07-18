@@ -1,4 +1,4 @@
-**✂️ Rock-Paper-Scissors by JJ – Jetpack Compose Android Game**
+**✂️ Rock-Paper-Scissors – Jetpack Compose Android Game**
 A modern, animated, and responsive Rock-Paper-Scissors game built entirely in Kotlin using Jetpack Compose.
 
 **📱 Features**
